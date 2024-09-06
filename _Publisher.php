@@ -1,5 +1,5 @@
 <?php
-class publisher
+class Publisher
 {
     public $name;
     public $address;
